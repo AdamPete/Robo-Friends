@@ -43,7 +43,7 @@ export const robot = [
   },
   {
     id: 8,
-    name: 'John maynard Keynes',
+    name: 'John Maynard Keynes',
     username: 'Keyneisan',
     email: 'Keynes29@gmail.com',
   },
